@@ -62,3 +62,8 @@ Digunakan untuk mengulang setiap element dari array.
 <b>contoh `continue` dalam code</b>
 
 ![contoh gamabar code continue](ss6.jpg)
+
+
+# Kesimpulan Struktur Kontrol
+
+Struktur kontrol seperti <b>conditional statement, loops</b>, dan penggunakan <b>break</b> serta <b>continue</b> memungkinkan kita untuk mengontrol aliran program dengan lebih fleksibel dan efisien. Pemahaman yang baik tentang konsep-konsep struktur kontrol ini sangat penting bagi programmer pemula.
