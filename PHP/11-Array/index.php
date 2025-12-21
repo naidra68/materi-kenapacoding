@@ -69,7 +69,7 @@
 
         <!-- looping array assosiatif lebih gampang karena terdapat key -->
         
-        <?php foreach ($buah as $item): ?>
+        <?php foreach ($buah2 as $item): ?>
             <li>nama buah: <?= $item["nama"] ?></li>
             <li>harga buah: <?= $item["harga"] ?></li>
         <?php endforeach; ?>
